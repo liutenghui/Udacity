@@ -1,0 +1,36 @@
+/* 添加 CSS */
+.main{
+    margin:12px 0 0 12px;
+    padding:0 15px;
+    width:450px;
+    border:1px solid #ececec;
+    font-size: 14px;
+    font-weight: 500;
+}
+.main:hover{
+    margin:12px 0 0 12px;
+    padding:0 15px;
+    width:450px;
+    border:1px solid #ececec;
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: 5px 5px 10px 5px #ececec;
+}
+.text-p{
+    margin-top: 20px;
+    margin-bottom: 18px;
+    padding: 22px 20px 0 18px;
+    border:1px solid #ececec;
+    line-height: 18px;
+}
+.itaicl{
+    font-style: italic;
+}
+li{
+    list-style: none;
+}
+ul li span{
+    font-size: 16px;
+    font-weight: 800;
+}
+
